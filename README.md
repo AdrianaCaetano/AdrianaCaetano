@@ -10,19 +10,26 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-caetano-sd/)
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<div id="header" align="center">
+  <img src="ADD A IMAGE HERE" width="600" height="300"/>
+</div>
+-->
 
-I am Adriana, a recent Master's Degree in Computer Science graduate with a passion for data. I also hold a Bachelor's Degree in Architecture and Urban Planning from Brazil. 
+---
 
-During my Master's program, I focused on databases, data mining, machine learning, and AI, which provided me with a strong foundation in handling data and discovering its meaning. As an architect, I have experience in understanding client needs and translating them into projects. I also have experience working as a liaison between clients, engineering teams, and builders, managing all aspects of the construction lifecycle. Through these experiences, I developed skills in collaboration, attention to detail, and project management.
+Greetings! I'm from Rio, Brazil, and have a strong passion for both yoga and data visualization. I recently graduated with a master's degree in Computer Science, in addition to having a bachelor's degree in Architecture and Urban Planning. My fascination with maps, graphs, and data analysis drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. At present, I am eager to enhance my knowledge of GIS and geospatial data, as I am currently residing in California, USA.
 
-People describe me as methodical, organized, personable, and a team player. I embrace challenges and changes, and I am comfortable dealing with the unknown. I have excellent communication skills and an attitude of flexibility, which I believe are essential when working with data. I am able to translate complex data into easily understandable formats, making my presentations accessible and informative to a broad range of audiences.
+Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am eager to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
 
-Thank you for taking the time to learn a little bit about me. Please feel free to explore my portfolio to see examples of my work and projects, and don't hesitate to reach out if you have any questions or would like to collaborate in the future.
+If you have any questions, feel free to ask me anything. And if you'd like to reach out to me, please find me on my [Linkedin](https://www.linkedin.com/in/adriana-caetano-sd/) to connect. Lastly, if you're curious, I'll let you in on a fun fact: I practice yoga regularly to maintain a healthy body and mind.
+
+---
+
 
 
 
