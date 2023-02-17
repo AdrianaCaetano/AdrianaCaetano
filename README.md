@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
 
 <!--
 **AdrianaCaetano/AdrianaCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ---
 
-Greetings! I'm from Rio, Brazil, and have a strong passion for both yoga and data visualization. I recently graduated with a master's degree in Computer Science, in addition to having a bachelor's degree in Architecture and Urban Planning. My fascination with maps, graphs, and data analysis drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. At present, I am eager to enhance my knowledge of GIS and geospatial data, as I am currently residing in California, USA.
+Originally from Rio, Brazil and residing in California, USA. I have a strong passion for both yoga and data visualization. I recently graduated with a master's degree in Computer Science, in addition to having a bachelor's degree in Architecture and Urban Planning. My fascination with maps, graphs, and data analysis drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. I am eager to enhance my knowledge of GIS and geospatial data. 
 
-Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am eager to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
+Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am interested to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
 
 If you have any questions, feel free to ask me anything. And if you'd like to reach out to me, please find me on my [Linkedin](https://www.linkedin.com/in/adriana-caetano-sd/) to connect. Lastly, if you're curious, I'll let you in on a fun fact: I practice yoga regularly to maintain a healthy body and mind.
 
