@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <div id="header" align="center">
-  <img src="ADD A IMAGE HERE" width="600" height="300"/>
+  <img src="/AdrianaCaetano.jpeg" width="330" height="300"/>
 </div>
--->
+
 
 ---
 
