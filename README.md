@@ -26,7 +26,7 @@ Originally from Rio, Brazil and residing in California, USA. I have a strong pas
 
 Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am interested to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
 
-If you have any questions, feel free to ask me anything. And if you'd like to reach out to me, please find me on my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/adriana-caetano-sd/) to connect. 
+If you have any questions, feel free to ask me anything. And if you'd like to reach out to me, please find me on my [LinkedIn<!--<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>-->](https://www.linkedin.com/in/adriana-caetano-sd/) to connect. 
 
 ---
 
