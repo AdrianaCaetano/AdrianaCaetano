@@ -43,7 +43,7 @@ If you have any questions, feel free to ask me anything. And if you'd like to re
 <img src= "https://img.shields.io/badge/Tableau-18417e?&style=for-the-badge&logo=tableau&logoColor=white" /> <img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" /> <img src= "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src = "https://img.shields.io/badge/seaborn-444876?&style=for-the-badge&logo=python&logoColor=white" />
 
 - Databases:
-<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src= "" /> 
+<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 
 - Cloud Fundamentals:
