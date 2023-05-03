@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-Originally from Rio, Brazil and residing in California, USA. I have a strong passion for data visualization. I recently graduated with a master's degree in Computer Science, in addition to having a bachelor's degree in Architecture and Urban Planning. My fascination with maps, graphs, and data analysis drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. I am eager to enhance my knowledge of GIS and geospatial data. 
+Former architect and urban planner transitioning to data analysis/science, I have a strong passion for data visualization. My fascination with maps and graphs drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. I am eager to enhance my knowledge of geospatial data. 
 
 Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am interested to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
 
