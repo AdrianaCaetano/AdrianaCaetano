@@ -1,56 +1,47 @@
-### Greetings! 👋
+# Hi there! 👋
 
-<!--
-**AdrianaCaetano/AdrianaCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data & Business Intelligence Professional** specializing in data analytics, data engineering, and visualization.
 
-Here are some ideas to get you started:
+I work with **Microsoft Fabric, Power BI, SQL, and Python** to develop data solutions, build semantic models, automate workflows, and transform complex data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-caetano-sd/)
-- ⚡ Fun fact: ...
--->
-
-<!--
-<div id="header" align="center">
-  <img src="/AdrianaCaetano.jpeg" width="330" height="300"/>
-</div>
--->
+My focus is on building scalable, reliable, and accessible data solutions that support data-informed decision-making.
 
 ---
 
-Data Professional transitioning from architecture and urban planning, I have a strong passion for data visualization. My fascination with maps and graphs drives me to uncover their hidden meanings and strive to present them in a clear and aesthetically pleasing manner. I am eager to enhance my knowledge of geospatial data. 
+### 🛠️ Technical Skills
 
-Currently, I am immersing myself in the world of data visualization and am always on the lookout for opportunities to collaborate with like-minded individuals. I am interested to connect with professionals in this field, and I believe that working together can produce truly outstanding results. Additionally, I am seeking guidance from experts who can offer me valuable insights on creating engaging and informative visualizations.
+#### Data Analytics & Business Intelligence
 
-If you have any questions, feel free to ask me anything. And if you'd like to reach out to me, please find me on my [LinkedIn<!--<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>-->](https://www.linkedin.com/in/adriana-caetano-sd/) to connect. 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-18417E?style=flat-square&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+
+#### Data Engineering & Cloud
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-5B5FC7?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+#### Programming & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+#### Development & Collaboration
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
 
 ---
 
-### Skills
+### 🔍 Areas of Focus
 
-- Languages and Frameworks: 
-<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src = "https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" /> <img src= "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-
-- ML/ DS: 
-<img src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src= "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src= "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-
-
-- Analytics and Visualization: 
-<img src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> <img src= "https://img.shields.io/badge/Tableau-18417e?&style=for-the-badge&logo=tableau&logoColor=white" /> <img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" /> <img src= "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src = "https://img.shields.io/badge/seaborn-444876?&style=for-the-badge&logo=python&logoColor=white" />
-
-- Databases:
-<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-
-- Cloud Fundamentals:
- <img src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src= "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
- 
- - OS:
- <img src=  "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-
-- IDEs: 
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img src= "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src= "https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img src= "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src= "https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /> <img src= "https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
+- Data modeling, ETL, and data pipelines
+- Lakehouse architecture and data integration
+- Interactive dashboards and data visualization
+- Statistical analysis and institutional research
+- Workflow automation and data quality
+- Version control and collaborative development
